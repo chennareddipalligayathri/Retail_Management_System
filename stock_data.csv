@@ -1,0 +1,13 @@
+"product_code","name", "brand", "price","stock" 
+ "442", "bag", "at", "1000", "50"
+ "444", "bag", "wc", "2000","42"
+ "428", "mobile", "apple","98000", "4" 
+ "426", "mobile", "honor","20000", "12"
+ "424", "mobile", "oppo","25000", "13" 
+ "450", "laptop", "dell", "67000", "34"
+ "448", "laptop", "lenovo", "98000", "12" 
+ "484", "shirt", "dennim", "1600", "48"
+ "482", "shirt", "wrogn", "2000", "88" 
+ "496", "AC", "voltas", "60000", "82"
+ "498", "AC", "daikin", "80000", "42"
+
